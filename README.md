@@ -1,2 +1,2 @@
 # Lux
-Для изучения и практики QT
+Repo for practice in QT with C++
